@@ -1,7 +1,7 @@
 use std::io;
 use std::string::String;
 
-fn main()  -> std::io::Result<()> {
+fn main() -> std::io::Result<()> {
     // Mutable variable that holds input text
     let mut input = String::new();
 
